@@ -1,0 +1,5 @@
+{
+  "name": "PersonaVoyage",
+  "description": "Un compagno di viaggio basato sull'IA che comprende il tuo umore e le tue vibrazioni per creare il viaggio perfetto.",
+  "requestFramePermissions": ["geolocation"]
+}
